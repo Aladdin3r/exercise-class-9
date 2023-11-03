@@ -25,6 +25,7 @@ console.log(list); // [ 1, 2 ]
 
 
 
+
 /**
  * Question 6 - create a 2 dimensions array that is 2-by-4. Grab some values out of this array to create a sentence using concatenation.
  * Make a new array called shopping list with two arrays inside. In the first array input the values cereal, milk, granola, water.
